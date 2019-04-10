@@ -1,22 +1,14 @@
-body{
-    font-size: 40px;
-}
-
-.box{
-    background-color: green;
-    color: white;
-    /*transition: background-color 1s ease-in-out;*/
-    transition: all .5s ease-in-out;
-}
-
 /*
-.box:hover{
-    background-color: red;
-    color: blue;
-}
+https://developer.mozilla.org/en-US/docs/Web/CSS/transform
 */
 
-.box:active{
-    background-color: red;
-    color: blue;
+.box{
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition: transform .5s ease-in-out;
+}
+
+.box:hover{
+    transform: rotate(1turn) scale(.5, .5);
 }
