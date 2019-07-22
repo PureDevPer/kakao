@@ -1,0 +1,3 @@
+- inline: Delete all the properties of CSS
+- inline-block: Make blocks horizontally
+- block: Make blocks vertically
