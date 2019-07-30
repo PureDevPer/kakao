@@ -8,7 +8,7 @@
 		<script src="https://kit.fontawesome.com/8b6aa9fa10.js"></script>
 		<link rel="stylesheet" href="../css/styles.css" />
 	</head>
-	<body>
+	<body class="chats-body">
 		<!-- Status Bar -->
 		<div class="status-bar">
 			<div class="status-bar__column">
@@ -43,10 +43,10 @@
 		</header>
 
 		<!--Main-->
-		<main class="chat">
+		<main class="chat-screen">
 			<ul class="chat__messages">
 				<span class="chat__timestamp">Saturday, July 27, 2019</span>
-				<li class="incoming-meesage message">
+				<li class="incoming-message message">
 					<img src="../images/avatar.jpg" class="m-avatar message__avatar" />
 					<div class="message__content">
 						<span class="message__author">Tiffany</span>
@@ -54,10 +54,8 @@
 							I am about to go back to home
 						</div>
 					</div>
-					<span class="message__timestamp">8:49 PM</span>
 				</li>
-				<li class="incoming-meesage message">
-					<span class="message__timestamp">8:50 PM</span>
+				<li class="sent-message message">
 					<div class="message__content">
 						<div class="message__bubble">
 							Okay. Drive safe!
@@ -69,17 +67,17 @@
 
 		<!-- Footer -->
 		<div class="chat__write">
-			<div class="chate__write-column">
+			<div class="chat__write-column">
 				<i class="far fa-plus-square"></i>
 			</div>
-			<div class="chate__write-column">
+			<div class="chat__write-column">
 				<input
 					type="text"
 					placeholder="Type message"
 					class="chat__write-input"
 				/>
 			</div>
-			<div class="chate__write-column">
+			<div class="chat__write-column">
 				<span class="chat__write-icon">
 					<i class="far fa-smile"></i>
 				</span>
