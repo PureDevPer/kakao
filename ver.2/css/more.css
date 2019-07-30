@@ -49,3 +49,16 @@
 	font-size: 28px;
 	color: white;
 }
+
+@keyframes spin {
+	from {
+		transform: none;
+	}
+	to {
+		transform: scale(1.5);
+	}
+}
+
+.header .header__icon-setting {
+	animation: spin 1s linear infinite;
+}
