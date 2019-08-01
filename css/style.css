@@ -12,3 +12,8 @@
 @import 'chat.css';
 @import 'bigScreen.css';
 @import 'mobile.css';
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
