@@ -19,3 +19,10 @@ https://codesandbox.io/s/blueprint-mfs7q
 - No margins or paddings allowed.
 - The second grey box has to become red when the mouse is on top of it.
 - The grey boxes can only have one class name.
+
+## 3.
+
+https://codesandbox.io/s/blueprint-wdvhk
+
+- There has to be an animation between the two states.
+- The button should have round borders and shadows
