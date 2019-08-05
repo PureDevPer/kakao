@@ -32,7 +32,7 @@ https://codesandbox.io/s/blueprint-wdvhk
 
 https://codesandbox.io/s/blueprint-fm7wq
 
-![alt text]("https://nomad-coders-assets.s3.amazonaws.com/media/public/django-summernote/2019-07-26/5d6066fc-e47a-47e8-8de5-1eca4a19b35c.gif")
-![alt text]("https://nomad-coders-assets.s3.amazonaws.com/media/public/django-summernote/2019-07-26/d1478780-7606-4986-b058-3ffb9fc31953.gif")
 
+## 5.
 
+https://codesandbox.io/s/blueprint-i7i4q
