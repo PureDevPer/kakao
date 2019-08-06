@@ -36,3 +36,11 @@ https://codesandbox.io/s/blueprint-fm7wq
 ## 5.
 
 https://codesandbox.io/s/blueprint-i7i4q
+
+## 6.
+
+https://codesandbox.io/s/blueprint-buicd
+
+- Flex box
+- Google Fonts
+- Font Awesome
