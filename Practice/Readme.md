@@ -44,3 +44,11 @@ https://codesandbox.io/s/blueprint-buicd
 - Flex box
 - Google Fonts
 - Font Awesome
+
+
+## 7.
+
+https://codesandbox.io/s/blueprint-699c1
+
+- Flex box
+- Google Fonts
