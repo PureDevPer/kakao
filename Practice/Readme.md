@@ -49,6 +49,7 @@ https://codesandbox.io/s/blueprint-buicd
 ## 7.
 
 https://codesandbox.io/s/blueprint-699c1
+Solution: https://codesandbox.io/s/1z0v676p4
 
 - Flex box
 - Google Fonts
