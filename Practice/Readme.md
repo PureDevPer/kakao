@@ -59,6 +59,7 @@ https://codesandbox.io/s/blueprint-699c1
 
 https://codesandbox.io/s/blueprint-govc5
 
+- Solution: https://codesandbox.io/s/0y1945ov0n
 - Flex box
 - Google Fonts
 - Font Awesome
