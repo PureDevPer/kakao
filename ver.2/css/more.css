@@ -62,3 +62,12 @@
 .header .header__icon-setting {
 	animation: spin 1s linear infinite;
 }
+
+.header__icon-setting .icon-link {
+	transition: all 0.5s linear;
+}
+
+.header__icon-setting .icon-link:hover {
+	transform: scale(1.5);
+	color: #bdc3c7;
+}

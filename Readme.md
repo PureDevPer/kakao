@@ -26,4 +26,5 @@ https://puredevper.github.io/kakao/ver.2/index.html
 - Chat
 - More
 - Find
+- Profile
 - Media Query
